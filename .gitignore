@@ -1,0 +1,3 @@
+.mypy_cache
+resources/dev-set.json
+resources/input.html
